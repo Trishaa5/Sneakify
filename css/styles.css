@@ -1,0 +1,120 @@
+body{
+  margin: 0;
+  text-align: center;
+}
+.navbar{
+  float: right;
+  padding-right: 50px;
+  padding-top: 10px;
+}
+.top-block{
+  text-align: left;
+  background-color: black;
+}
+.top-block2{
+  background-image: radial-gradient(#dde4e8, #C0D6E4, #191962);
+/*linear-gradient(to bottom right,#191962,#191970,#7878ac,#8686fb,#7878ac,#dde4e8);/*#2c2a4a,#4f518c,#907ad6,#7878ac);*/
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+span{
+  font-family: 'Dancing Script', cursive;
+  color: white;
+  padding-left: 20px;
+  padding-top: 20px;
+  position: relative;
+  bottom: 20px;
+  font-size: 3rem;
+  line-height: 50px;
+}
+h1{
+  text-align: center;
+  font-family: 'Zen Dots', cursive;
+  font-size: 2.9rem;
+}
+h2{
+  text-align: center;
+  font-family: 'Zen Dots', cursive;
+  font-size: 4rem;
+}
+h3{
+  font-family: 'Raleway', sans-serif;
+  font-size: 2.5rem;
+}
+.jordans{
+  border-radius: .5rem;
+}
+.para{
+  font-family: 'Inconsolata', monospace;
+  font-size: 1.5rem;
+  line-height: 2;
+  display: block;
+  margin-right: 40px;
+  margin-left: 40px;
+}
+.mambacita-blk{
+  padding-top: 3rem;
+  background-image: linear-gradient(to top left,white,#020116);
+  padding-bottom: 30px;
+}
+.mambacita{
+  border-radius: .5rem ;
+  height: 450px;
+}
+.air-jordans{
+  padding-top: 3rem;
+  background-image: linear-gradient(to bottom right,#9a8888,#918383,#c5baba,#eae0e0,#f3f3f3);
+  padding-bottom: 30px;
+}
+.airjordans{
+  height: 350px;
+  margin-left:0.5rem;
+  border-radius: 0.5rem ;
+  margin-right: 0.5rem;
+}
+.bottom-blk2{
+  margin: 0;
+  padding: 0;
+}
+.brand-img{
+}
+a:hover img {
+  opacity: .5;
+  transform: scale(1.2);
+}
+.copyright{
+  font-family: 'Inconsolata', monospace;
+  font-size: 1.2rem;
+  color: white;
+  padding-top: 20px;
+}
+.footer-blk{
+  background-color: black;
+  margin-top: 50px;
+  padding: 30px 0 30px;
+  width: 100%;
+}
+.bottom-blk{
+  margin: 0;
+}
+#shop{
+  margin: 0;
+}
+.nav{
+  color: white;
+  font-size: 1.5rem;
+  text-decoration: none;
+  padding-left: 40px;
+  padding-top: 40px;
+  font-family: 'Fredoka One', cursive;
+}
+a:hover{
+  color: #808080;
+}
+li {
+  display: inline;
+}
+a{
+  text-decoration: none;
+  color: black;
+}
